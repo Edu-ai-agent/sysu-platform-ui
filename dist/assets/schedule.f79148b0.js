@@ -1,0 +1,1 @@
+import{M as a,r as s,ak as t,o as u,U as _,u as r,E as c}from"./vue.86fe07f1.js";const d=a({name:"systemSysSchedule"}),i=a({...d,setup(m){const e=s(new Date);return(p,n)=>{const l=t("el-calendar");return u(),_(l,{modelValue:r(e),"onUpdate:modelValue":n[0]||(n[0]=o=>c(e)?e.value=o:null)},null,8,["modelValue"])}}});export{i as default};
