@@ -6,6 +6,17 @@
  <img src="https://img.shields.io/github/license/pig-mesh/pig"/>
 </p>
 
+## 安装/启动
+```shell
+npm install --legacy-peer-deps
+npm run dev
+# 或者
+npm install -g pnpm
+pnpm install
+pnpm dev
+
+```
+
 ## 分支说明
 
 - master: java8 + springboot 2.7 + springcloud 2021
